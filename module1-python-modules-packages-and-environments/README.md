@@ -1,3 +1,9 @@
+# **THE ASSIGNMENT LINK...**
+Github: https://github.com/allan-gon/lambda-package
+Test Pypi: https://test.pypi.org/manage/project/lambdata-allan-gon/releases/
+
+
+
 # Python Modules, Packages, and Environments
 
 Places for your code (and dependencies) to live.
